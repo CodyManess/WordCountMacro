@@ -9,6 +9,6 @@ Here are the steps on using the macro:
 3.	Select the WordCount Macro (Or whatever name you gave it when you added it)
 4.	A Dialog Prompt will ask you select the folder that has the documents you wish to count
 5.	After selecting the folder, it will makes its calculations and write all of the information in an excel document named WordCounts.xlsx.
-    You can find this document in the directory you choose.
+    You can find this document in the directory you chose.
     a.	If you already have a file named WordCounts.xlsx, it will ask if you would like to overwrite it.
 6.	After it has written the information into the excel document, it will display how many files and words it found.
